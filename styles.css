@@ -1,0 +1,27 @@
+.fa-camera, .fa-map-marker {
+    float: left;
+}
+.row {
+    background-color: rgb(241, 235, 235);
+}
+#pill-tabs {
+    margin-left: 45%;
+}
+.col5 {
+    background-position: center;
+}
+.mx-auto {
+    max-width: 500px;
+}
+.feed2 {
+    width: 100%;
+}
+.card-header:first-child {
+    background-color: white;
+}
+.card-footer {
+    background-color: white!important;
+}
+#pills-tabContent {
+    background-color: lightgray;
+}
